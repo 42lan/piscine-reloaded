@@ -1,2 +1,2 @@
 # piscine-reloaded
-Cette petite série d’exercices simples va me permettre de remettre le pied à létrier pour bien commencer ma scolarité à 42. Fonctions, boucles, pointeurs, structures, retrouvons ensemble les bases syntaxiques et sémantiques du C
+The **Piscine Reloaded** is a best-of of the exercises I did during the Piscine C to remind me all the basics of the C programming language: the syntactic and semantic bases, functions, loops, pointers, structures.
